@@ -1,0 +1,21 @@
+{
+  "name": "Solana",
+  "symbol": "SOL",
+  "description": "",
+  "image": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "external_url": "https://solana.com",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
