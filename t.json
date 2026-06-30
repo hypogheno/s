@@ -1,0 +1,21 @@
+{
+  "name": "GTA VI",
+  "symbol": "GTAVI",
+  "description": "",
+  "image": "https://images.seeklogo.com/logo-png/51/1/gta-vi-logo-png_seeklogo-511746.png",
+  "external_url": "https://solana.com",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://images.seeklogo.com/logo-png/51/1/gta-vi-logo-png_seeklogo-511746.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
